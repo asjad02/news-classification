@@ -13,5 +13,3 @@
 9. 'EDUCATION'
 
 ## The project is deployed on heroku. [Click_here](https://news-classification.herokuapp.com)
-
-![Screenshot](/screenshot/img.png)
